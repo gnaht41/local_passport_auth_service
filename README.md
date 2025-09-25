@@ -8,3 +8,9 @@
 
 2) `login` (đăng nhập) → kiểm tra trong DB 
 ![alt text](public/image/image-1.png)
+
+3) `profile`
+![alt text](public/image/image-4.png)
+
+3) `logout`
+![alt text](public/image/image-3.png)
